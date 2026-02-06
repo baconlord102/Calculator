@@ -1,10 +1,10 @@
-🧮 Calculator
+## 🧮 Calculator
 
-Overview:
+## Overview:
 
 Calculator is a browser-based application that performs basic arithmetic operations through a simple, user-friendly interface. The project focuses on event-driven logic, accurate calculations, and synchronizing application state with the UI using vanilla JavaScript.
 
-Features:
+## Features:
 
 Addition, subtraction, multiplication, and division
 
@@ -14,7 +14,7 @@ Responsive button-based interface
 
 Real-time display updates
 
-Tech Stack:
+## Tech Stack:
 
 HTML5 – structure and layout
 
@@ -24,10 +24,9 @@ JavaScript (ES6) – application logic
 
 How to Run Locally
 
-Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/baconlord102/calculator.git
-
 
 Navigate into the project directory
 
@@ -35,7 +34,7 @@ Open index.html in your browser
 
 No setup or dependencies required.
 
-Application Logic:
+## Application Logic:
 
 Button presses trigger event listeners
 
@@ -45,7 +44,7 @@ Arithmetic operations are handled through conditional logic
 
 The display updates dynamically after each interaction
 
-What This Project Demonstrates:
+## What This Project Demonstrates:
 
 Event-driven programming
 
@@ -55,7 +54,7 @@ Synchronizing UI with application logic
 
 Implementing basic algorithms in JavaScript
 
-Future Improvements:
+## Future Improvements:
 
 Add keyboard input support
 
@@ -65,6 +64,6 @@ Add calculation history
 
 Enhance UI accessibility
 
-Purpose:
+## Purpose:
 
 This project was built to practice core JavaScript logic and reinforce event handling patterns in a familiar problem space.
